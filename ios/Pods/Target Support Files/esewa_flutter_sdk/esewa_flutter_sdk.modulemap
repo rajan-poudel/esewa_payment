@@ -1,0 +1,6 @@
+framework module esewa_flutter_sdk {
+  umbrella header "esewa_flutter_sdk-umbrella.h"
+
+  export *
+  module * { export * }
+}
